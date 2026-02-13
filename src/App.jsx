@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-      <h1>Hello MT</h1>
+      <h1>Hello CK</h1>
       <TimeTracking />
     </>
   );
